@@ -1,0 +1,3 @@
+object_id	condition	action	priority
+MO-112	BROKEN	REPAIR	4
+MO-207	FRAGILE	CLEAN	2
